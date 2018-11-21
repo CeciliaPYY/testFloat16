@@ -1,0 +1,8 @@
+classified-images/
+*.json
+images/
+problemImage/
+transformed_images/
+*.config
+*.txt
+*.log
